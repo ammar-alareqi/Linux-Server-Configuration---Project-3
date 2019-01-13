@@ -1,7 +1,7 @@
 # Project 3: Linux Server Configuration
 
 ## Overview
-
+A baseline installation of a Linux server is prepared to host a web applications. It will be secured from a number of attack vectors, install and configure a database server, and deploy of **Item Catalog** web applications onto it.
 
 ## Server Info
 
