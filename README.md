@@ -9,6 +9,7 @@ A baseline installation of a Linux server is prepared to host a web applications
 - **IP address:** 3.8.111.184
 - **Port**: 2200
 - **Installed software**: Flask, SQLAlchemey, OAUTH, PostgreSQL, Apache2, mod-wsgi, Git
+- **Third party resources**: Amazon (AWS Lightsil)
 
 ## Configuration
 
